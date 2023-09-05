@@ -45,11 +45,11 @@ ng serve
 5. Open your web browser and go to `http://localhost:4200` to explore the Housing Application.
 
 ## Usage
-1. Visit the live demo link [here](link-to-live-demo) or run the application locally as explained in the Installation section.
-2. Use the search functionality to filter according to city.
-3. Browse through the available housing listings that match your search criteria.
-4. Click on a listing to view more details and contact information for the property.
+ 
+1. Use the search functionality to filter according to city.
+2. Browse through the available housing listings that match your search criteria.
+3. Click on a listing to view more details and contact information for the property.
 
 ## Technologies Used
 - Angular
-- JSON Server
+- Node Server
