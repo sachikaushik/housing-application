@@ -14,11 +14,6 @@
 ## Introduction
 The Housing Application built with Angular is a web application designed to help users search for housing listings. The application fetches data from a JSON server acting as a mockup, allowing users to explore available housing options conveniently.
 
-## Demo
-![Housing Application Demo](link-to-demo-gif.gif)
-
-Check out the live demo [here](link-to-live-demo)!
-
 ## Features
 - Search Functionality: The application provides a search feature to find housing listings based on user preferences.
 - Housing Listings: Users can browse through a list of available housing options with relevant details.
