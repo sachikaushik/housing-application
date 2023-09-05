@@ -1,0 +1,44 @@
+header {
+    padding: 1em;
+    border-bottom: 1px solid #eee;
+}
+
+footer {
+    margin-top: 2em;
+    background-color: white;
+    color: #262626;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    align-items: center;
+    padding: 1.5em 3em;
+}
+
+.footer-content a {
+    text-decoration: none;
+}
+
+.footer-content p {
+    font-size: 1em;
+    font-weight: 600;
+    padding-top: 5px;
+    margin-bottom: 0.5em; /* Add some spacing between text and icon */
+}
+
+.footer-name {
+    font-weight: 600;
+    padding: 10px;
+    background: rgba(225,236,244,.6);
+    border-radius: .3em;
+    color: #262626;
+}
+
+/* span {
+    font-size: 2em; 
+    font-weight: bold;
+    color: salmon; 
+    text-decoration: none;
+} */

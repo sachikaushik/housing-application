@@ -1,0 +1,21 @@
+<main>
+  <a [routerLink]="['/']">
+    <header class="brand-name">
+      <img style="height: 5vh;" class="brand-logo" src="../assets/house.png" alt="logo" aria-hidden="true">
+      <!-- <span>HOUSING</span> -->
+    </header>
+  </a>
+  
+  <section class="content">
+    <router-outlet></router-outlet>
+  </section>
+
+  <footer>
+    <div class="footer-content">
+        <p>Brought to you with ❤️ by </p>
+        <a href="https://github.com/Tauhid-Patel" target="_blank">
+            <span class="footer-name">@tauhidpatel</span>
+        </a>
+    </div>
+</footer>
+</main>
