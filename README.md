@@ -1,7 +1,5 @@
 # Housing Application - Angular
 
-![tauhid-housing-1](https://github.com/Tauhid-Patel/angular-housing/assets/43630196/4759a050-434e-4047-9408-cc7ed277476f)
-
 
 ## Table of Contents
 - [Introduction](#introduction)
